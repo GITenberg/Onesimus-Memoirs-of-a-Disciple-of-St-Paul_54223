@@ -1,0 +1,36 @@
+_repo: Onesimus-Memoirs-of-a-Disciple-of-St-Paul_54223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Edwin Abbott
+    aliases:
+    - Abbott, Edwin A. (Edwin Abbott)
+    - A Square
+    - Abbott, E. A. (Edwin Abbott)
+    birthdate: 1838
+    deathdate: 1926
+    gutenberg_agent_id: '64'
+    url: http://www.gutenberg.org/2009/agents/64
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
+description: ''
+gutenberg_issued: '2017-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54223'
+  lccn: '42026788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Fiction'
+- !lcsh 'Ephesus (Extinct city) -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PR'
+- !lcsh 'Paul, the Apostle, Saint -- Fiction'
+- !lcsh 'Onesimus, Saint, Bishop of Ephesus, approximately 33-approximately 110 --
+  Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: 'Onesimus: Memoirs of a Disciple of St. Paul'
+url: http://www.gutenberg.org/ebooks/54223
