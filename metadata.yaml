@@ -1,5 +1,8 @@
 _repo: Onesimus-Memoirs-of-a-Disciple-of-St-Paul_54223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54223-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, Edwin Abbott
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/64
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54223#Onesimus-Memoirs-of-a-Disciple-of-St-Paul
 gutenberg_issued: '2017-02-22'
 gutenberg_type: Text
 identifiers:
